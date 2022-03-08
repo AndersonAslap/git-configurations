@@ -1,1 +1,1 @@
-# git-configurations
+# Configurações do Git
